@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cubos Tecnologia<br>🌱 Svelte, RedwoodJs<br>💬 React, NodeJs, Python, Django, NextJS<br>⚡ The Lord of the Rings fan
+🔭 Cubos Tecnologia<br>🌱 Svelte, RedwoodJs<br>💬 React, NodeJs, NextJS<br>⚡ The Lord of the Rings fan
 
 
 ## 🌐 Socials:
